@@ -1,7 +1,6 @@
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
-DOMAIN,cdp.cloud.unity3d.com
 DOMAIN,client.amplifi.com
 DOMAIN,download.jetbrains.com
 DOMAIN,images-cn.ssl-images-amazon.com
@@ -2554,9 +2553,6 @@ DOMAIN-SUFFIX,pipaw.net
 DOMAIN-SUFFIX,pipix.com
 DOMAIN-SUFFIX,pkoplink.com
 DOMAIN-SUFFIX,pkulaw.com
-DOMAIN-SUFFIX,playstation.com
-DOMAIN-SUFFIX,playstation.net
-DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,pmphmooc.com
 DOMAIN-SUFFIX,pn1waq.com
 DOMAIN-SUFFIX,pnas.org
