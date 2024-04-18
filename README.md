@@ -1,4 +1,5 @@
 # 示例配置
+```
 [General]
 proxy-test-url = http://1.1.1.1
 internet-test-url = http://223.5.5.5
@@ -18,3 +19,4 @@ FINAL,Proxy
 
 [MITM]
 client-source-address = 127.0.0.1
+```
