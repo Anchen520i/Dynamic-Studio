@@ -1,8 +1,8 @@
 # 示例配置
 ```
 [General]
-proxy-test-url = http://1.1.1.1
-internet-test-url = http://223.5.5.5
+internet-test-url = http://cn.aliyun.com
+proxy-test-url = http://cp.cloudflare.com/generate_204
 
 [Proxy Group]
 Proxy = smart, policy-path=订阅链接, policy-priority=香:0.2;台:0.4;新:0.6;日:0.8;美:1.2
