@@ -9,7 +9,7 @@ encrypted-dns-follow-outbound-mode = true
 # 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐥
 all-hybrid = false
 wifi-assist = false
-compatibility-mode = 1
+compatibility-mode = 0
 # 𝐂𝐨𝐦𝐩𝐚𝐭𝐢𝐛𝐢𝐥𝐢𝐭𝐲 𝐌𝐨𝐝𝐞（𝐢𝐎𝐒 𝐨𝐧𝐥𝐲）
 # 𝟎: 𝐀𝐮𝐭𝐨（旧版本为𝟏、新版本为𝟑）
 # 𝟏: 𝐒𝐲𝐬𝐭𝐞𝐦 𝐏𝐫𝐨𝐱𝐲 𝐚𝐧𝐝 𝐕𝐈𝐅
