@@ -1,9 +1,0 @@
-#!name=𝐇𝐨𝐥 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧
-#!desc=中国法定节假日信息
-#!system=ios
-
-[Panel]
-Timecard = script-name=Timecard,update-interval=3600
-
-[Script]
-Timecard = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Anchen520i/DynamicStudio/main/Timecard.js
